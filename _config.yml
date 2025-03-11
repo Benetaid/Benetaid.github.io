@@ -1,16 +1,18 @@
 # 站点基本信息
-title: 你的名字
-email: your-email@example.com
+title: 沙花
+email: alk_aid@163.com
 description: >- # 这是一个多行文本字段，用于描述你的网站
   这是我的个人网站，欢迎访问！
 baseurl: "" # 网站的相对路径，如果不需要可以保留为空
 url: "https://your-username.github.io" # 网站的完整URL
 twitter_username: jekyllrb
-github_username:  your-username
+github_username:  Benetaid
 
 # 主题相关配置
-theme: minima # 如果你使用的是Minima主题
-# 如果你使用的是其他主题，可能需要在这里指定主题的Gem名称
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 # 插件配置
 plugins:
