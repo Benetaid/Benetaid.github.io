@@ -1,0 +1,21 @@
+# 站点基本信息
+title: 你的名字
+email: your-email@example.com
+description: >- # 这是一个多行文本字段，用于描述你的网站
+  这是我的个人网站，欢迎访问！
+baseurl: "" # 网站的相对路径，如果不需要可以保留为空
+url: "https://your-username.github.io" # 网站的完整URL
+twitter_username: jekyllrb
+github_username:  your-username
+
+# 主题相关配置
+theme: minima # 如果你使用的是Minima主题
+# 如果你使用的是其他主题，可能需要在这里指定主题的Gem名称
+
+# 插件配置
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 自定义配置
+# 你可以在这里添加自定义的配置项，比如导航栏菜单、侧边栏内容等
