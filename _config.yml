@@ -4,7 +4,7 @@ email: alk_aid@163.com
 description: >- # 这是一个多行文本字段，用于描述你的网站
   这是我的个人网站，欢迎访问！
 baseurl: "" # 网站的相对路径，如果不需要可以保留为空
-url: "https://your-username.github.io" # 网站的完整URL
+url: "https://Benetaid.github.io" # 网站的完整URL
 twitter_username: jekyllrb
 github_username:  Benetaid
 
@@ -16,6 +16,7 @@ plugins:
 
 # 插件配置
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
