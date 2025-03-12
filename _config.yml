@@ -23,4 +23,9 @@ plugins:
 # 自定义配置
 # 你可以在这里添加自定义的配置项，比如导航栏菜单、侧边栏内容等
 
+# 指定文章的 URL 格式
 permalink: /:year/:month/:day/:title/
+
+# 启用分页功能
+paginate: 5
+paginate_path: /page:num/
