@@ -6,7 +6,7 @@ categories: [blog]
 tags: [file]
 description: 尝试整理手机文件记录
 comments: true
-published: false
+published: true
 ---
 
 # 写在前面
